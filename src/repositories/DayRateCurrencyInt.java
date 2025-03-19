@@ -17,4 +17,5 @@ DayRateCurrency getRate(LocalDate date) throws IOException;
 
 
 
+
 }
